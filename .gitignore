@@ -1,0 +1,21 @@
+# Downloaded files and working directories
+boost_downloads/
+*_temp/
+course_page.html
+course_page_files/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
